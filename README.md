@@ -53,6 +53,7 @@ Generated summary statistics to understand the distribution of key variables.
 
 ![image](https://github.com/user-attachments/assets/1e8fb4ea-da62-49be-9d0f-18ade6ebb8b8)
 
+![image](https://github.com/user-attachments/assets/a481f237-3d29-4d21-a10b-41e411346ee9)
 
 Univariate Analysis:
 
@@ -72,10 +73,14 @@ Explored relationships between the target variable (positive response) and indep
 Categorical Variable Analysis:
 
 Investigated the relationship between categorical variables (e.g., job type, marital status) and the campaign outcome.
+![image](https://github.com/user-attachments/assets/e705b9c9-1f88-44a8-b66a-bb3ab1d89455)
+
 
 Correlation Analysis:
 
 Examined correlations between features and the likelihood of a customer responding positively to the campaign.
+![image](https://github.com/user-attachments/assets/5f965539-8bb6-4b29-a938-84fdb2521efd)
+
 
 Key Insights
 
@@ -86,3 +91,15 @@ Job Type Impact: Customers in certain professions (e.g., management, blue-collar
 Call Duration: Longer call durations were associated with higher chances of a successful outcome, indicating the importance of sustained engagement.
 
 Previous Campaign Success: Customers who had responded positively to previous campaigns were more likely to subscribe again, showing the importance of past interactions.
+
+Cellular mode of communication can be made favorite option, so that campaign can be moved vigorously.
+
+As the number of married couple are highest in this segment so attractive discount can be introduce to attract more customers in this segment.
+
+A lot of customers are opting for housing loan so complimentary offers can be used to attract more customers
+
+Sales person can target more customers with age group of 30-50 years .
+
+More schemes should be introduce to benefit the secondary sector.
+
+
