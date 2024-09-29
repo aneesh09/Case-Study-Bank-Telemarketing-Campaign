@@ -50,18 +50,22 @@ Cleaned the dataset by handling missing values and correcting data types.
 Descriptive Statistics:
 
 Generated summary statistics to understand the distribution of key variables.
+
 ![image](https://github.com/user-attachments/assets/1e8fb4ea-da62-49be-9d0f-18ade6ebb8b8)
 
 
 Univariate Analysis:
 
 Analyzed individual features such as age, balance, and duration of the calls to understand their distributions.
+
 ![image](https://github.com/user-attachments/assets/41e65acb-96a3-4177-bf63-33198ba8823c)
 
 Bivariate Analysis:
 
 Explored relationships between the target variable (positive response) and independent variables such as age, marital status, and previous campaign outcomes.
+
 ![image](https://github.com/user-attachments/assets/c5171735-2640-4b51-beeb-3b54c69b80dd)
+
 ![image](https://github.com/user-attachments/assets/a533795b-95d0-4084-bb67-c293d51fd3a5)
 
 
